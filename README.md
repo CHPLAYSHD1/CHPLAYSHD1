@@ -1,6 +1,6 @@
 ### Boas Vindas ao Meu Perfil 💙
 
-Meu nome é Cristian Hiago
+Meu nome é **Cristian Hiago**
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
